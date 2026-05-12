@@ -56,5 +56,5 @@
 ### 1. Клонировать репозиторий
 
 ```bash
-git clone https://github.com/ВАШ_АККАУНТ/titan-industry-40.git
+git clone [https://github.com/ВАШ_АККАУНТ/titan-industry-40.git](https://github.com/andoup75/titan-industry-40/tree/main)
 cd titan-industry-40
